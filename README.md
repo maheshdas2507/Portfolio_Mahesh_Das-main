@@ -1,4 +1,4 @@
-# Portfolio_Yogesh_Jha
+# Portfolio_Mahesh_Das
 
 ✅Created my own portfolio project using HTML, CSS and Javascript. Connected the contact form using Google Excel sheet.<br/>
 Also, This portolio is live and hosted through gitHub.<br/>
@@ -26,19 +26,4 @@ form.addEventListener('submit', e => {<br/>
 
 
 
-✅If you want detail how to connect it through this code, just message me through linkedin or through my contact me form given inside the portfolio.<br/>
 
-✅Sample of UI (Portfolio) given below👇🏻<br/>
-
-![Screenshot (541)](https://github.com/Yogesh-160/Portfolio_Yogesh_Jha/assets/124399567/b062f71a-1aeb-46cd-9f19-921f3540fdcf)
-
-
-✅Link to access my portfolio 👉🏻 https://yogesh-160.github.io/Portfolio_Yogesh_Jha/<br/>
-
-
-✅Connect with me on Linkedin if you have any query regarding my project.  <br/>
-OR
-Simply fill the contact me form which is given inside my portfolio project.<br/>
-
-
-Give start if you love my hardwork ⭐️<br/>
